@@ -7,14 +7,14 @@
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>218D9B16-7CDD-4A87-8647-54519409065B</string>
 	<key>IDESourceControlProjectName</key>
-	<string>project</string>
+	<string>jenkinsTestApp</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>618AB03DC1E22B15FBBDE9875555CFB685A4905B</key>
 		<string>https://github.com/njain-jb/jenkinsTestApp.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>jenkinsTestApp.xcodeproj/project.xcworkspace</string>
+	<string>jenkinsTestApp.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>618AB03DC1E22B15FBBDE9875555CFB685A4905B</key>
