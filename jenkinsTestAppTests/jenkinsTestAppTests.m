@@ -31,9 +31,9 @@
     printf( "This is a test!\n" );
 }
 
-- (void)testExample2 {
-    // This is an example of a performance test case.
-    XCTAssertEqual(@"a", @"b", @"fail");
-}
+//- (void)testExample2 {
+//    // This is an example of a performance test case.
+//    XCTAssertEqual(@"a", @"b", @"fail");
+//}
 
 @end
